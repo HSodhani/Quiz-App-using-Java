@@ -1,2 +1,5 @@
 # Quiz App using Java
- PBL-6
+
+The App is made by using Java, Java FX and swing packages.
+
+
